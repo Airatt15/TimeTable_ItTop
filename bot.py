@@ -6,7 +6,7 @@ from aiogram.filters import Command
 from aiogram.types import Message, CallbackQuery, InlineKeyboardButton
 from aiogram.utils.keyboard import InlineKeyboardBuilder
 
-TOKEN = "8507173948:AAGlCQqzBY8n3AdSLKY5kAbrEhDNFlAgmVo"
+TOKEN = 
 
 bot = Bot(token=TOKEN)
 dp = Dispatcher()
